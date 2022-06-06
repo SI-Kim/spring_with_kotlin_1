@@ -8,4 +8,5 @@ class SpringWithKotlin1Application
 
 fun main(args: Array<String>) {
     runApplication<SpringWithKotlin1Application>(*args)
+    println("test")
 }
